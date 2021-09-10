@@ -1,5 +1,13 @@
 ### Hi there 👋
+#### I'm Ahmed Halat
+<p>
+  &nbsp; 👨🏾‍💻 Junior Full Stack Developer at <a href="https://verto.health"> Verto Health </a>
+</p>
+<p>
+  &nbsp; 🎓 Enrolled at The University of Toronto, Computer Science
+</p>
 
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=AhmedHalat&show_icons=true&theme=gruvbox&count_private=true)
 <!--
 **AhmedHalat/AhmedHalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
