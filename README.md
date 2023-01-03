@@ -1,9 +1,10 @@
 ### Hi there 👋
 #### I'm Ahmed Halat
 <ul>
-  <li>👾 Ex-SDE Intern at <a href="https://www.amazon.ca"> Amazon </a></li>
+  <li>👾 Ex-SDE Intern at <a href="https://aws.amazon.com/" target="_blank"> AWS </a></li>
   <li>👨🏾‍💻 Junior Full Stack Developer at <a href="https://verto.health"> Verto Health </a></li>
   <li>🎓 Enrolled at The University of Toronto, Computer Science</li>
+  <li>📝 Teaching Assistant for CSCC09 - Programming on the Web at The University of Toronto </li>
 </ul>
 
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=AhmedHalat&show_icons=true&theme=gruvbox&count_private=true)
